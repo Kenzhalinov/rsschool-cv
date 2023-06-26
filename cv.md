@@ -16,9 +16,24 @@
 
 ====
 
-# Skills and Proficiency:
+# **Skills and Proficiency :**
 1. HTML5, CSS3 
 2. Golang Basics
 3. Sql
 4. Docker
 
+====
+
+# **Hello Code :**
+```javascript
+console.log("Hello, RSschool!");
+```
+
+====
+
+# **Languages:**
+1. Russian 
+2. English 
+3. Kazakh
+
+===
