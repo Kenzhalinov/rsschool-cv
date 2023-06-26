@@ -38,4 +38,4 @@ console.log("Hello, RSschool!");
 
 ===
 
-![This is me going to explore new boundaries](blob:https://web.telegram.org/657196ed-6840-4c82-90e4-b4c748e90cd2)
+![This is me going to explore new boundaries](https://picx.zhimg.com/v2-817eba8ade3a08a5cf70fece01ef32de_r.jpg?source=1940ef5c)
