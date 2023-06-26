@@ -37,3 +37,5 @@ console.log("Hello, RSschool!");
 3. Kazakh
 
 ===
+
+![This is me going to explore new boundaries](blob:https://web.telegram.org/657196ed-6840-4c82-90e4-b4c748e90cd2)
